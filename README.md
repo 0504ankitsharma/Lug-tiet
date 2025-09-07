@@ -44,6 +44,4 @@ A modern, dark-themed static website for the Linux User Group (LUG) at Thapar In
 - Base theme: Skilltech Web Design (Particle)
 - Libs: Bootstrap, jQuery, Typed.js, Particles.js, WOW.js
 
-## License
 
-Website content © LUG TIET. Third-party libraries retain their respective licenses.
