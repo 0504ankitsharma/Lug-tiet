@@ -120,7 +120,11 @@ $(document).ready(function () {
 	// Initiate typed.js text effect (done custom for each typed text effect)
 	$(".animated-text-effect").typed({ 
 		// Enter your texts here, these texts are applied to dark homepages
-		strings: ["Talented senior mentors for you^", "LUG Society: Connecting Curiosity with Code!^", "LUG Society: Where the Linux Penguins Party!^"], 
+		strings: [
+			"Learn. Build. Share. With LUG TIET^",
+			"Mentorship, events, and open‑source culture^",
+			"Join the Linux community at TIET^"
+		], 
 		contentType: "text", 
 		typeSpeed: 30, 
 		loop: true, 
